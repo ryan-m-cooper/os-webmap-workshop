@@ -252,6 +252,20 @@
           41.705151803808796
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay View Retirees Golf Course",
+        "type": "Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47892761230467,
+          41.694706023815115
+        ]
+      }
     }
   ]
 }
